@@ -4,6 +4,7 @@
 [![AWS](https://img.shields.io/badge/AWS-orange)](https://github.com/tymik)
 [![Terraform](https://img.shields.io/badge/Terraform-8A2BE2)](https://github.com/tymik)
 [![Terragrunt](https://img.shields.io/badge/Terragrunt-8A2BE2)](https://github.com/tymik)
+[![Docker](https://img.shields.io/badge/Docker-blue)](https://github.com/tymik)
 
 
 ### 🌐 Socials:

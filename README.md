@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ### 💻 Tech Stack:
+[![Terraform](https://img.shields.io/badge/Terraform-8A2BE2)](https://github.com/tymik)
+
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mtyminska/](https://www.linkedin.com/in/jantyminski/)) 

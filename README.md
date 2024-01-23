@@ -3,15 +3,13 @@
 ### 💻 Tech Stack:
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/tymik)
 
-(https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-[![Terraform](https://img.shields.io/badge/Terraform-8A2BE2)](https://github.com/tymik)
-[![Terragrunt](https://img.shields.io/badge/Terragrunt-8A2BE2)](https://github.com/tymik)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/tymik)
+[![Terragrunt](https://img.shields.io/badge/Terragrunt-7B42BC)](https://github.com/tymik)
 
 [![Docker](https://img.shields.io/badge/Docker-blue)](https://github.com/tymik)
 
-[![CircleCI](https://img.shields.io/badge/CircleCI-black)](https://github.com/tymik)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black)](https://github.com/tymik)
+[![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)](https://github.com/tymik)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/tymik)
 
 
 ### 🌐 Socials:

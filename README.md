@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 💻 Tech Stack:
-[![AWS]([https://img.shields.io/badge/AWS-orange](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white))](https://github.com/tymik)
+[![AWS]([https://img.shields.io/badge/AWS-orange](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/tymik)
 
 [![Terraform](https://img.shields.io/badge/Terraform-8A2BE2)](https://github.com/tymik)
 [![Terragrunt](https://img.shields.io/badge/Terragrunt-8A2BE2)](https://github.com/tymik)

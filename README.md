@@ -8,6 +8,9 @@
 
 [![Docker](https://img.shields.io/badge/Docker-blue)](https://github.com/tymik)
 
+[![CircleCI](https://img.shields.io/badge/CircleCI-black)](https://github.com/tymik)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black)](https://github.com/tymik)
+
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mtyminska/](https://www.linkedin.com/in/jantyminski/)) 

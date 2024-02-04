@@ -2,6 +2,15 @@
 
 ### Welcome to my GitHub profile 👋
 
+I started my professional career in 2012 as Systems Administrator focusing on Linux systems and a bit of networking.
+In 2016 I had my first experience with AWS and I wanted to pursue my path with this cloud.
+My first DevOps Engineer role was in 2018 and I continue this path.
+
+My greatest career started in 2020 when I joined Netguru - I've got 4 AWS Certificates during that time and I also became proficient with Terraform, Docker and CI/CD concepts, using CircleCI.
+My 5th AWS Certification happened in next company.
+
+👨‍🎓 I am currently strongly focusing on learning Kubernetes and a bit less on Python 🐍
+
 ### 💻 Tech Stack:
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/tymik)
 
